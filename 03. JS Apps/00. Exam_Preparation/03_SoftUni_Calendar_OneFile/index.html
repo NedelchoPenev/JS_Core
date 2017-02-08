@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SoftUni Calendar</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.css">
+    <link rel="stylesheet" href="css/fullcalendar.css">
+    <link rel="stylesheet" href="css/font-awesome.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="../../jquery-3.1.1.min.js"></script>
+</head>
+<body>
+<header>
+    <section id="loadingBox" class="loadingBox">Loading ...</section>
+
+    <section id="infoBox" class="infoBox">Info</section>
+
+    <section id="errorBox" class="errorBox">Error</section>
+    <img class="img-header" src="imgs/calendar.png">
+    <h1 class="site-header">SoftUni Calendar</h1>
+    <nav id="menu">
+        <ul>
+            <li class="nav-button"><a href="#" id="btnHome">Home</a></li>
+            <li class="nav-button"><a href="#" id="btnCalendar">Calendar</a></li>
+            <li class="nav-button"><a href="#" id="btnLectures">My Lectures</a></li>
+            <li class="nav-button"><a href="#" id="btnLogout">Logout</a></li>
+            <li class="nav-button"><a href="#" id="btnLogin">Login</a></li>
+            <li class="nav-button"><a href="#" id="btnRegister">Register</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+<main id="container">
+    <section id="viewCalendar" class="viewCalendar">
+        <h1 class="titleForm">Calendar</h1>
+        <div id="cal" class="cal">
+            <table>
+                <tr>
+                    <th>Title</th>
+                    <th>Starts on</th>
+                    <th>ENDS ON</th>
+                    <th>Lecturer</th>
+                    <th>Actions</th>
+                </tr>
+                <tr class="data">
+                    <td>Ad title</td>
+                    <td>Ad Starts on</td>
+                    <td>Ad ENDS ON</td>
+                    <td>Ad Lecturer</td>
+                    <td>
+                        <a href="#">[Delete]</a>
+                        <a href="#">[Edit]</a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </section>
+
+    <section id="viewHome" class="viewHome">
+        <div class="welcome-message">
+            <header class="main-header">Welcome to SoftUni Calendar!</header>
+            <h3 class="centered">Please <a href="#">login</a> to access the site.</h3>
+        </div>
+    </section>
+
+    <section id="viewAdmin" class="viewAdmin">
+        <div class="welcome-message">
+            <header class="main-header">Welcome, Admin!</header>
+            <h3 class="centered">Navigate to <a href="#">Calendar</a> or add a new <a href="#">Lecture</a></h3>
+        </div>
+    </section>
+
+    <section id="viewLogin">
+        <div class="login-form">
+            <header class="main-header">Login</header>
+            <div class="data">
+                <label for="loginUsername">Username:</label>
+                <input type="text" id="loginUsername" placeholder="Username..."/>
+                <label for="loginPassword">Password:</label>
+                <input type="password" id="loginPassword" placeholder="Password..."/>
+            </div>
+            <div class="panel">
+                <button id="login-button" class="button">Login</button>
+                <span>or</span>
+                <a href="#">Register</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="viewRegister">
+        <div class="register-form">
+            <header class="main-header">Register</header>
+            <div class="data">
+                <label for="registerUsername">Username:</label>
+                <input type="text" id="registerUsername" placeholder="Username..."/>
+                <label for="registerPassword">Password:</label>
+                <input type="password" id="registerPassword" placeholder="Password..."/>
+                <label for="confirm-password">Confirm password:</label>
+                <input type="password" id="confirm-password" placeholder="Password again..."/>
+            </div>
+            <div class="panel">
+                <button class="button" id="register-button">Register</button>
+                <span>or</span>
+                <a href="#">Login</a>
+            </div>
+        </div>
+    </section>
+
+    <section id="viewAdd">
+        <div class="add-lecture-form">
+            <header class="main-header">Add new lecture</header>
+            <div class="data">
+                <label for="addTitle">Title:</label>
+                <input type="text" id="addTitle" placeholder="Lecture title..."/>
+                <lable for="addStart">Start date and time:</lable>
+                <input type="text" id="addStart" placeholder="2016-01-19T12:00:00">
+                <lable for="addEnd">End date and time:</lable>
+                <input type="text" id="addEnd" placeholder="2016-01-20T18:00:00">
+            </div>
+            <div class="panel">
+                <button id="addLecture" class="button">Add</button>
+                <a href="#">
+                    <button class="button">Cancel</button>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section id="viewDelete">
+        <div class="delete-lecture-form">
+            <header class="main-header">Delete leture</header>
+            <div class="data">
+                <label>Title:</label>
+                <input type="text" value="Exam Preparation" disabled/>
+                <label>Start:</label>
+                <input type="text" value="2016-03-16T18:00:00" disabled/>
+                <label>End:</label>
+                <input type="text" value="2016-03-16T22:00:00" disabled>
+            </div>
+            <div class="panel">
+                <button id="deleteLecture" class="button" data-id="a23xd2dasz75">Delete</button>
+                <a href="#/">
+                    <button class="button">Cancel</button>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <section id="viewEdit">
+        <div class="edit-lecture-form">
+            <header class="main-header">Edit lecture</header>
+            <div class="data">
+                <label for="title">Title:</label>
+                <input type="text" id="title" value="Exam Preparation" placeholder="Title..."/>
+                <label for="start">Start:</label>
+                <input type="text" id="start" value="2016-03-16T18:00:00" placeholder="2016-01-19T12:00:00"/>
+                <label for="end">End:</label>
+                <input type="text" id="end" value="2016-03-16T22:00:00" placeholder="2016-01-20T18:00:00"/>
+            </div>
+            <div class="panel">
+                <button id="editLecture" class="button" data-id="a23xd2dasz75">Edit</button>
+                <a href="#/">
+                    <button class="button">Cancel</button>
+                </a>
+            </div>
+        </div>
+    </section>
+</main>
+<div></div>
+<script src="script.js"></script>
+<script>startApp()</script>
+</body>
+</html>

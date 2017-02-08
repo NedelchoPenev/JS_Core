@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6a2d57c-3c3c-4c48-b57d-8ad1ff3cd498" name="Default" comment="" />
+    <ignored path="Homeworks.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Homeworks" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="10_Secret_Data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/10_Secret_Data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="16_Match_Multiplication.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/16_Match_Multiplication.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="15_Form_Filler.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/15_Form_Filler.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="14_Parse_the_Employee_Data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/14_Parse_the_Employee_Data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="13_Match_the_Dates.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/13_Match_the_Dates.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12_Expression_Split.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/12_Expression_Split.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="11_Simple_Email_Validation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/11_Simple_Email_Validation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="10_Match_All_Words.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/10_Match_All_Words.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09_Escaping.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/09_Escaping.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_Spy_Master.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exams/00. 16_October_2016/03_Spy_Master.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/12_Expression_Split.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/13_Match_the_Dates.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/14_Parse_the_Employee_Data.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/15_Form_Filler.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/16_Match_Multiplication.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/09_Escaping.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/01_Split_a_String_with_a_Delimiter.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/02_Repeat_a_String_N_Times.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/03_Starts_With.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/04_Ends_With.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/05_Capitalize_the_Words.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/06_Capture_the_Numbers.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/07_Find_Variable_Names_in_Sentences.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/08_Word_Occurences.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/09_Extract_Links.js" />
+        <option value="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/10_Secret_Data.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/01_Towns_to_JSON.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/02_Score_to_HTML.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/03_JSON_to_HTML_Table.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/04_Sum_by_Town.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/05_Count_Words_in_a_Text.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/06_Count_Words_with_Maps.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/07_Population_in_Towns.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/08_City_Markets.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/10_Extract_Unique_Words.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/09_Lowest_Prices_in_Cities.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/01_Heroic_Inventory.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/02_JSON's_Table.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/03_Cappy_Juice.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/04_Store_Catalogue.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/05_Auto-Engineering_Company.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/06_System_Components.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/07_Usernames.js" />
+        <option value="$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/08_Unique_Sequences.js" />
+        <option value="$PROJECT_DIR$/Exams/01. 9_January _2015/01_The_Teteven_Trip.js" />
+        <option value="$PROJECT_DIR$/Exams/01. 9_January _2015/02_Parachute.js" />
+        <option value="$PROJECT_DIR$/Exams/01. 9_January _2015/03_Use_Your_Chains_Buddy.js" />
+        <option value="$PROJECT_DIR$/Exams/01. 9_January _2015/04_All_That_Luggage.js" />
+        <option value="$PROJECT_DIR$/Exams/02. 5_April_2015.js" />
+        <option value="$PROJECT_DIR$/Exams/02. 5_April_2015/01_Uncle_Scrooge’s_Bag.js" />
+        <option value="$PROJECT_DIR$/Exams/02. 5_April_2015/03_Goshko_the_rabbit.js" />
+        <option value="$PROJECT_DIR$/Exams/02. 5_April_2015/04_Rolland_Garros.js" />
+        <option value="$PROJECT_DIR$/Exams/02. 5_April_2015/02_Flea_Racing.js" />
+        <option value="$PROJECT_DIR$/04. 31_January_2016.js" />
+        <option value="$PROJECT_DIR$/Exams/04. 31_January_2016/01_Exam_Results.js" />
+        <option value="$PROJECT_DIR$/Exams/04. 31_January_2016/02_Filter_Matrix.js" />
+        <option value="$PROJECT_DIR$/Exams/04. 31_January_2016/04_Minka_the_JavaScript_Goddess.js" />
+        <option value="$PROJECT_DIR$/Exams/00. 16_October_2016/02_Rosetta_Stone.js" />
+        <option value="$PROJECT_DIR$/Exams/00. 16_October_2016/01_Arithmephile.js" />
+        <option value="$PROJECT_DIR$/Exams/00. 16_October_2016/04_Radical_Marketing.js" />
+        <option value="$PROJECT_DIR$/Exams/00. 16_October_2016/03_Spy_Master.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1932" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Homeworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Homeworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Homeworks" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last.edited.regexp" value="Sample Text" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nedelcho Penev\Google Drive\SoftUni\JS Core\JS Fundamentals\Homeworks\Exams" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.03_Spy_Master.js">
+    <configuration default="false" name="01_Arithmephile.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="01_Arithmephile.js" working-dir="$PROJECT_DIR$/Exams/00. 16_October_2016">
+      <method />
+    </configuration>
+    <configuration default="false" name="02_Rosetta_Stone.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="02_Rosetta_Stone.js" working-dir="$PROJECT_DIR$/Exams/00. 16_October_2016">
+      <method />
+    </configuration>
+    <configuration default="false" name="04_Radical_Marketing.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="04_Radical_Marketing.js" working-dir="$PROJECT_DIR$/Exams/00. 16_October_2016">
+      <method />
+    </configuration>
+    <configuration default="false" name="03_Spy_Master.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="03_Spy_Master.js" working-dir="$PROJECT_DIR$/Exams/00. 16_October_2016">
+      <method />
+    </configuration>
+    <configuration default="false" name="07_Find_Variable_Names_in_Sentences.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="07_Find_Variable_Names_in_Sentences.js" working-dir="$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.01_Arithmephile.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.02_Rosetta_Stone.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.04_Radical_Marketing.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.03_Spy_Master.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.07_Find_Variable_Names_in_Sentences.js" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.03_Spy_Master.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.07_Find_Variable_Names_in_Sentences.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.04_Radical_Marketing.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.01_Arithmephile.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.02_Rosetta_Stone.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6a2d57c-3c3c-4c48-b57d-8ad1ff3cd498" name="Default" comment="" />
+      <created>1475777716866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475777716866</updated>
+      <workItem from="1475777717998" duration="68000" />
+      <workItem from="1475777805840" duration="103000" />
+      <workItem from="1475777923527" duration="50000" />
+      <workItem from="1475833208636" duration="2532000" />
+      <workItem from="1475842908595" duration="59749000" />
+      <workItem from="1476268603160" duration="31567000" />
+      <workItem from="1476439767402" duration="34646000" />
+      <workItem from="1476797496534" duration="83000" />
+      <workItem from="1477229244912" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="128807000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1932" height="1048" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12957157" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.50625" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.49375" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39956093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/09_Extract_Links.js</url>
+          <line>1</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/05_Count_Words_in_a_Text.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/09_Lowest_Prices_in_Cities.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Lab/08_City_Markets.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/03_Cappy_Juice.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/07_Usernames.js</url>
+          <line>6</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/01. 9_January _2015/01_The_Teteven_Trip.js</url>
+          <line>2</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/01. 9_January _2015/02_Parachute.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/01. 9_January _2015/03_Use_Your_Chains_Buddy.js</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/01. 9_January _2015/04_All_That_Luggage.js</url>
+          <line>13</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/02. 5_April_2015/01_Uncle_Scrooge’s_Bag.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/02. 5_April_2015/02_Flea_Racing.js</url>
+          <line>1</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/02. 5_April_2015/04_Rolland_Garros.js</url>
+          <line>37</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/04. 31_January_2016/01_Exam_Results.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/04. 31_January_2016/02_Filter_Matrix.js</url>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/04. 31_January_2016/04_Minka_the_JavaScript_Goddess.js</url>
+          <line>33</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/00. 16_October_2016/02_Rosetta_Stone.js</url>
+          <line>11</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/00. 16_October_2016/04_Radical_Marketing.js</url>
+          <line>24</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exams/00. 16_October_2016/03_Spy_Master.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="48" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exams/01. 9_January _2015/04_All_That_Luggage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Exams/02. 5_April_2015/02-FleeRacing/solve.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-621">
+          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/03_Count_Occurrences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/02. 5_April_2015/03_Goshko_the_rabbit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Exams/02. 5_April_2015/04-RolandGarros/rolandGarros.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-871">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/02. 5_April_2015/04_Rolland_Garros.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04. 31_January_2016.js" />
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Lab/04_First_and_Last_K_Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Lab/03_Negative_Positive_Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Lab/02_Even_Position_Element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Lab/05_Last_K_Numbers_Sequence.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Lab/06_Process_Odd_Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Lab/07_Smallest_Two_Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Lab/08_Biggest_Element.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Lab/09_Diagonal_Sums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Lab/10_Equal_Neighbors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Exercise/10_Orbit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Exercise/09_Diagonal_Attack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Exams/04. 31_January_2016/Problem04-Minka-the-JavaScript-Goddess/04.MinkaTheJavaScriptGoddess-Solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/04. 31_January_2016/04_Minka_the_JavaScript_Goddess.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/04. 31_January_2016/01_Exam_Results.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/02. 5_April_2015/01_Uncle_Scrooge’s_Bag.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/02. 5_April_2015/02_Flea_Racing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/04. 31_January_2016/02_Filter_Matrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06. Arrays_Matrices_Multi-Dimensional_Arrays/Exercise/07_Magic_Matrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/00. 16_October_2016/01_Arithmephile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/08_Unique_Sequences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/07_Usernames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/06_System_Components.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-405">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08. Objects-and-Assoc-Arrays/Exercise/05_Auto-Engineering_Company.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/00. 16_October_2016/04_Radical_Marketing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/01_Split_a_String_with_a_Delimiter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/02_Repeat_a_String_N_Times.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/03_Starts_With.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/04_Ends_With.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/05_Capitalize_the_Words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/06_Capture_the_Numbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/00. 16_October_2016/02_Rosetta_Stone.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/07_Find_Variable_Names_in_Sentences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/08_Word_Occurences.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/09_Extract_Links.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Exercise/10_Secret_Data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/16_Match_Multiplication.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/15_Form_Filler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/14_Parse_the_Employee_Data.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/13_Match_the_Dates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/12_Expression_Split.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/11_Simple_Email_Validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/10_Match_All_Words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07. Strings_and_Regular_Expressions/Lab/09_Escaping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exams/00. 16_October_2016/03_Spy_Master.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
